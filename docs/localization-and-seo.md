@@ -44,9 +44,9 @@ Public documentation and website copy should:
 The live site is the source of truth for current service availability and customer
 actions:
 
-- [Swift Drop home](https://swiftdrop.express/)
-- [Delivery services](https://swiftdrop.express/services)
-- [Pricing](https://swiftdrop.express/pricing)
-- [Coverage](https://swiftdrop.express/coverage)
-- [Contact](https://swiftdrop.express/contact)
+- [Swift Drop home](https://swiftdrop.ae/)
+- [Delivery services](https://swiftdrop.ae/services)
+- [Pricing](https://swiftdrop.ae/pricing)
+- [Coverage](https://swiftdrop.ae/coverage)
+- [Contact](https://swiftdrop.ae/contact)
 

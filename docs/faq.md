@@ -19,8 +19,8 @@ booking is confirmed.
 ## Can I use this repository as a public API?
 
 No. It documents public behavior but does not define a public API or grant access to
-private endpoints. Use the [live website](https://swiftdrop.express/) for customer
-actions and the [contact page](https://swiftdrop.express/contact) for business or
+private endpoints. Use the [live website](https://swiftdrop.ae/) for customer
+actions and the [contact page](https://swiftdrop.ae/contact) for business or
 integration enquiries.
 
 ## Does publishing documentation guarantee better rankings?
@@ -31,6 +31,6 @@ presence, customer experience, and genuine references from other sites.
 
 ## Where can I ask about a delivery?
 
-Use the [Swift Drop contact page](https://swiftdrop.express/contact) or the contact
+Use the [Swift Drop contact page](https://swiftdrop.ae/contact) or the contact
 options shown on the live website.
 
