@@ -12,17 +12,17 @@ contributors. It does not publish the private application source or deployment s
 English pages use the root public path:
 
 ```text
-https://swiftdrop.express/
-https://swiftdrop.express/services
-https://swiftdrop.express/pricing
+https://swiftdrop.ae/
+https://swiftdrop.ae/services
+https://swiftdrop.ae/pricing
 ```
 
 Arabic pages use the `/ar` prefix:
 
 ```text
-https://swiftdrop.express/ar
-https://swiftdrop.express/ar/services
-https://swiftdrop.express/ar/pricing
+https://swiftdrop.ae/ar
+https://swiftdrop.ae/ar/services
+https://swiftdrop.ae/ar/pricing
 ```
 
 The public URLs are the canonical contract. Internal framework directories are an

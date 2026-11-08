@@ -18,6 +18,6 @@ Thank you for helping improve the public Swift Drop technical documentation.
 - Keyword-stuffed pages or links created only to influence rankings
 
 Open a pull request with a short explanation of the change and the public behavior it
-documents. For private security concerns, use the [contact page](https://swiftdrop.express/contact)
+documents. For private security concerns, use the [contact page](https://swiftdrop.ae/contact)
 instead of publishing details in an issue.
 

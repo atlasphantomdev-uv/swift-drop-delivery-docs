@@ -21,7 +21,7 @@ request:
 - Check all links.
 - Remove secrets, personal information, internal hostnames, and private identifiers.
 - Mark examples as examples.
-- Confirm claims about the live service against [swiftdrop.express](https://swiftdrop.express/).
+- Confirm claims about the live service against [swiftdrop.ae](https://swiftdrop.ae/).
 - Keep English and Arabic URL examples consistent with the public routing rules.
 
 ## Private application changes

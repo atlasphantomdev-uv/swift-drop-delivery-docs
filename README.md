@@ -3,7 +3,7 @@
 Swift Drop is a UAE express-delivery platform for time-sensitive documents, parcels,
 business shipments, and specialist transport requests.
 
-The live service is available at [swiftdrop.express](https://swiftdrop.express/).
+The live service is available at [swiftdrop.ae](https://swiftdrop.ae/).
 This repository is the public technical companion to the private production application.
 It explains the platform's public behavior, architecture, localization, and safety
 principles without publishing private source code, credentials, customer data, or
@@ -39,5 +39,5 @@ website before being relied on.
 ## Contact
 
 For delivery questions, booking support, or business enquiries, use the
-[Swift Drop contact page](https://swiftdrop.express/contact).
+[Swift Drop contact page](https://swiftdrop.ae/contact).
 
